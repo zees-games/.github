@@ -15,25 +15,6 @@ If you've played community and modded servers on games like [Garry's Mod](https:
 
 This is the thought process behind everything and while games **do have separate maps still**, the maps and games loading mechanism is nearly the same under the hood.
 
-## Games
-### [G2g Fast](https://moddingcommunity.com/g2gfast) ([My Server](https://moddingcommunity.com/g2gfast/s/g2gfast01/play))
-Bunny hop and surf timer game with Source-style movement, zones and leaderboards. This is similar to Counter-Strike Surf Timer and Bunny Hop.
-
-### [Playground](https://moddingcommunity.com/playground) ([My Server](https://moddingcommunity.com/playground/s/pg01/play))
-Physics sandbox where you spawn props, NPCs, and weapons and build whatever you like. Garry's Mod was a big inspiration if you haven't noticed :)
-
-### [Arena](https://moddingcommunity.com/arena) ([My Server](https://moddingcommunity.com/arena/s/arena01/play))
-Fast first-person deathmatch shooter with different game modes such as GunGame. Pick a loadout, jump into a match and play. Also includes some classic **Surf Deathmatch** maps from older Counter-Strike games!
-
-### [Hungario](https://moddingcommunity.com/hungario) ([My Server](https://moddingcommunity.com/hungario/s/hungario01/play))
-2D multiplayer game where you steer a hungry monster, eat to grow and try to outlast everyone else. Inspired off of the classic fun web browser game, [Agario](https://agar.io)!
-
-### [Buses From Hell](https://moddingcommunity.com/buses-from-hell) ([My Server](https://moddingcommunity.com/buses-from-hell/s/bfh01/play))
-A minigame where players must survive being run over by one or more crazy bus drivers!
-
-### [Smash Copter](https://moddingcommunity.com/smash-copter) ([My Server](https://moddingcommunity.com/smash-copter/s/smash01/play))
-A minigame where players must survive on unstable platforms while props are shot up into the air and fall on top of them.
-
 ## Other Notes
 ### Claude Code: Yes I Am Using AI
 Most of these games are still not completed, but will be worked on a lot in the close future. With that said, all of these games were created by Claude Code, but there are assets like maps from older games that Claude converted (includes credits in the repos's README).
